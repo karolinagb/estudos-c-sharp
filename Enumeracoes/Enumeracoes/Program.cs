@@ -25,7 +25,7 @@ namespace Enumeracoes
             Console.WriteLine(txt);
 
             //Como converter de string para o tipo enumerado
-            //Deve se parametrizar o Parse igual a parametrização de listas onde dentro do < > eu coloco para qual tipo
+            //Deve se parametrizar o Parse igual a parametrização de listas onde dentro do < > eu coloco o nome do tipo
             //Entre () eu boto o tipo que eu quero que seja convertido para o tipo enumerado:
             OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
 

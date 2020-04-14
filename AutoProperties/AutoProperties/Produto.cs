@@ -58,6 +58,7 @@ namespace AutoProperties
         /*A função ToString pertence a classe Object portanto eu tenho que fazer uma sobreposição usando override*/
         //override indica que a operação venho de outra classe
         //Assinatura da função ToString:
+        //Imprimindo com ToString
 
         public override string ToString()
         {
