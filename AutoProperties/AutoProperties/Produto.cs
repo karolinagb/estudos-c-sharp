@@ -57,10 +57,10 @@ namespace AutoProperties
 
         /*A função ToString pertence a classe Object portanto eu tenho que fazer uma sobreposição usando override*/
         //override indica que a operação venho de outra classe
-        //Assinatura da função ToString
+        //Assinatura da função ToString:
+
         public override string ToString()
         {
-            //definição da lógica para transformar um produto em string
             return this._nome + ", $ " + this.Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", " + this.Quantidade + " unidades, Total: R$ "
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
