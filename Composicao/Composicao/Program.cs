@@ -58,7 +58,7 @@ namespace Composicao
 
             Console.Write("\nName: " + worker.Name);
             Console.Write("\nDepartment: " + worker.Department.Name);
-            Console.Write("\nIncome for " + monthAndYear + ": " + worker.Income(year, month));
+            Console.Write("\nIncome for " + monthAndYear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
