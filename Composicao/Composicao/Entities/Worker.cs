@@ -52,7 +52,6 @@ namespace Composicao.Entities
                     sum += contract.TotalValue();
                 }
             }
-
             return sum;
         }
     }
