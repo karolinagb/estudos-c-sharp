@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace ArquivosParte_III
 {
@@ -6,7 +7,29 @@ namespace ArquivosParte_III
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string path = @"c:\projetos\file1.txt";
+
+            try
+            {
+                //Tudo do bloco using será executado e depois o recurso é fechado automaticamente:
+                using (StreamReader sr = File.OpenText(path))
+                {
+                    while (!sr.EndOfStream)
+                    {
+                        string line = sr.ReadLine();
+                        Console.WriteLine(line);
+                    }
+                }
+
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("An error occurred");
+                Console.WriteLine(e.Message);
+            }
+
+
+
         }
     }
 }
