@@ -27,7 +27,9 @@ namespace NoInterface
             //Instanciando o aluguel do carro:
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalService rentalService = new RentalService(pricePerHour, pricePerDay);
+            /*Estou incluindo a implementaçãod a classe concreta BrazilTaxService e a mesma casa com o objeto ITaxService
+             no construtor por meio de Upcasting já que o BrazilTaxService é subtipo de ITaxService*/
+            RentalService rentalService = new RentalService(pricePerHour, pricePerDay, new BrazilTaxService());
 
             //A operação abaixo deve instanciar o meu invoice associado ao meu carRental
             rentalService.ProcessInvoice(carRental);

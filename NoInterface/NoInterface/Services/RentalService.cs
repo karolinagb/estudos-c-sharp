@@ -8,13 +8,16 @@ namespace NoInterface.Services
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
 
-        //Associação do serviço RentalService com o BrasilTaxService 
-        private BrazilTaxService _brazilTaxService = new BrazilTaxService();
+        //Associação do serviço RentalService com A INTERFACE ITaxService 
+        private ITaxService _taxService;
 
-        public RentalService(double pricePerHour, double pricePerDay)
+        //Inversão de controle por meio de injeção de dependências
+        //Esse serviço apenas recebe a implementação da interface
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
+            _taxService = taxService;
         }
 
         public void ProcessInvoice(CarRental carRental)
@@ -37,7 +40,7 @@ namespace NoInterface.Services
             }
 
             //Calculando o imposto:
-            double tax = _brazilTaxService.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             //Instanciando uma folha de pagamento associada a um aluguel de carro
             carRental.Invoice = new Invoice(basicPayment, tax);
