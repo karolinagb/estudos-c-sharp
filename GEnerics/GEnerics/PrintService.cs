@@ -2,16 +2,17 @@
 
 namespace GEnerics
 {
-    class PrintService
+    //Parametrização por tipo : PODE SER QUALQUER LETRA
+    class PrintService<T>
     {
         //varável interna do tipo vetor para receber até 10 valores
-        private int[] _values = new int[10];
+        private T[] _values = new T[10];
 
         //Variável interna para contar quantos valores foram inseridos
         private int _count = 0;
 
         //Adiciona o valor do argumento dentro do vetor
-        public void AddValue (int value)
+        public void AddValue (T value)
         {
             //Verificando se o vetor está cheio
             if (_count == 10)
@@ -23,7 +24,7 @@ namespace GEnerics
         }
 
         //Retorna o primeiro elemento do PrintService
-        public int First()
+        public T First()
         {
             //Verificando se o PrintService está vazio:
             if (_count == 0)

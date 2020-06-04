@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UNUgPFk7ZT1PvVZ58jPkr++Dm8lpsoGgdp2flsC4xEGDmJOTJiw6Gvxie4Fnoh9/O9CXr4uAlJsaQ4MCpc9Kvw==",
+  "dgSpecHash": "9rzS0JMmfXfIdGOhaNjY9bIcUWTZJMb7odqaSkmymhsz/DZJKqrry8dXqffKeIO0PcwqbAq2hI4srGdnICkBAA==",
   "success": true,
   "projectFilePath": "C:\\projetos\\GEnerics\\GEnerics\\GEnerics.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,7 +6,8 @@ namespace GEnerics
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            //No programa principal eu coloco o tipo que quero trabalhar:
+            PrintService<int> printService = new PrintService<int>();
             Console.WriteLine("How many values?");
             int n = int.Parse(Console.ReadLine());
             
