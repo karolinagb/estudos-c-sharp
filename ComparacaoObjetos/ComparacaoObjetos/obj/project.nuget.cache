@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RIeshuO2GBk1xixoUMYg6RGQRSJ4fiVztRVG7aBdrMRXREBwpL5CUtJusJVLQA75gpdEMzaybmBEdswb88DLNQ==",
+  "dgSpecHash": "0A0ZSpt6+bCLkAgaubpQ6KkXbS6yknFl8NbONwPrczlNfrMyE7AZBkx8GC5GxSYgDVC5dJn1o6gSyuSc3Hx8LA==",
   "success": true,
   "projectFilePath": "C:\\projetos\\ComparacaoObjetos\\ComparacaoObjetos\\ComparacaoObjetos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

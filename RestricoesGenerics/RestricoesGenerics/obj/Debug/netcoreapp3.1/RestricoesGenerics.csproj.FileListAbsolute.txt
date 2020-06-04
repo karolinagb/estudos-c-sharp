@@ -1,0 +1,13 @@
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.csprojAssemblyReference.cache
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.AssemblyInfoInputs.cache
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.AssemblyInfo.cs
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\projetos\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.exe
+C:\projetos\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.deps.json
+C:\projetos\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.runtimeconfig.json
+C:\projetos\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.runtimeconfig.dev.json
+C:\projetos\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.dll
+C:\projetos\RestricoesGenerics\RestricoesGenerics\bin\Debug\netcoreapp3.1\RestricoesGenerics.pdb
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.dll
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.pdb
+C:\projetos\RestricoesGenerics\RestricoesGenerics\obj\Debug\netcoreapp3.1\RestricoesGenerics.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBE4NmzC+1ndOiKjxKmBd+1NwRyH4OfNqOhd2cF1ESKUPgLWE91uG7xcWW2cD3S+Nhf4nkFqSB9tBFMPks6laA==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\RestricoesGenerics\\RestricoesGenerics\\RestricoesGenerics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

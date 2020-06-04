@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\ComparacaoObjetos\\ComparacaoObjetos\\ComparacaoObjetos.csproj",
-      "projectName": "ComparacaoObjetos",
-      "projectPath": "C:\\projetos\\ComparacaoObjetos\\ComparacaoObjetos\\ComparacaoObjetos.csproj",
+      "projectUniqueName": "C:\\projetos\\RestricoesGenerics\\RestricoesGenerics\\RestricoesGenerics.csproj",
+      "projectName": "RestricoesGenerics",
+      "projectPath": "C:\\projetos\\RestricoesGenerics\\RestricoesGenerics\\RestricoesGenerics.csproj",
       "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\ComparacaoObjetos\\ComparacaoObjetos\\obj\\",
+      "outputPath": "C:\\projetos\\RestricoesGenerics\\RestricoesGenerics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
