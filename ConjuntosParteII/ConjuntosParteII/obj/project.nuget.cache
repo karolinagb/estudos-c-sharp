@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkNkdXyemNBmFy/gpmFt8ZAVzL0yPQSW93xgK1i1yYiS+l+AgnEOH/YsfmKnnAxGD71Go+Ew59/r79Vw1V+uhw==",
+  "dgSpecHash": "WEO0NP5pngVAXD6XW9gwA5/FioGTOkCd7pbn8djTz6RYwVROuU/e84H9YedIgfydsIR3mIk6vjMXbm2REh2OtQ==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Conjuntos\\Conjuntos\\Conjuntos.csproj",
+  "projectFilePath": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

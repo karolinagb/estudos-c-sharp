@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Conjuntos\\Conjuntos\\Conjuntos.csproj",
-      "projectName": "Conjuntos",
-      "projectPath": "C:\\projetos\\Conjuntos\\Conjuntos\\Conjuntos.csproj",
+      "projectUniqueName": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj",
+      "projectName": "ConjuntosParteII",
+      "projectPath": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj",
       "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Conjuntos\\Conjuntos\\obj\\",
+      "outputPath": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",

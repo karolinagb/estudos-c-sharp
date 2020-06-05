@@ -9,3 +9,5 @@ C:\projetos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.c
 C:\projetos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
 C:\projetos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
 C:\projetos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\projetos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\projetos\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\Classes\\Classes\\Classes.csproj": {}
+    "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\Classes\\Classes\\Classes.csproj": {
+    "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Classes\\Classes\\Classes.csproj",
-        "projectName": "Classes",
-        "projectPath": "C:\\projetos\\Classes\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj",
+        "projectName": "ConjuntosParteII",
+        "projectPath": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\ConjuntosParteII.csproj",
         "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Classes\\Classes\\obj\\",
+        "outputPath": "C:\\projetos\\ConjuntosParteII\\ConjuntosParteII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
