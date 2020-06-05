@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CkfR8fViibR7bHnB8L0+sGfGHt9fS9WVbN1duPX4JTzmWZANqA4z25SujJBN+d0ITi5OK1aEG8IPId2Q5giGg==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\ConjuntosParteIII\\ConjuntosParteIII\\ConjuntosParteIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
