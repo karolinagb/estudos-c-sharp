@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j4GBDwWypjaCs0wo+NDumkXouTK18+IHJ/yuwOEeyJsFlZsquQr6gvOQb1qP6RDDyRXGNa34Z+W+u0rJ1xeNxg==",
+  "dgSpecHash": "ja3iQa0oECvKk0Bk3kSbsrGrShd3x2aNxEeeg/fNZJdmBxA2la406/Q7Lf4roSeQj79NOFPFMjCR3CO4fOvj7Q==",
   "success": true,
   "projectFilePath": "C:\\projetos\\Composicao\\Composicao\\Composicao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

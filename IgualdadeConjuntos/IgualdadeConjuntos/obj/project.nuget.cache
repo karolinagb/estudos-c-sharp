@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATx7yZJ7jnWFUrb3EzxKqIXYwEuipzm3DXXEcV9bHFwv8+QhNKf2QY2BDe+5uMg0bwcitfCaQ1XBUVt5dkaulA==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\IgualdadeConjuntos\\IgualdadeConjuntos\\IgualdadeConjuntos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

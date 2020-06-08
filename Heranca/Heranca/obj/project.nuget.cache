@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/vBA/9z0v0i/3Fk33oZ/LQOYqtgvigzXBRJ8sU4PKTo9/DlLCNZRF8LS5KL+3XRRqpXeQyZAQeoNPuci/v/8lA==",
+  "dgSpecHash": "a6naB/JQ8XiuuOqoaXTDtN7r+PO1756nAif6zMAwRRS4Elab6UMTVBjqnUl24HOKkwxqFKBSH5a1xbR1GgzcUg==",
   "success": true,
   "projectFilePath": "C:\\projetos\\Heranca\\Heranca\\Heranca.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
