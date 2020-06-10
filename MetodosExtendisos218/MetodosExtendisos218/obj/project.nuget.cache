@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X26RtED2kr8aTX2YtVJzUF6M6QS5yuoDEYASljSm08Nkj1H8brjlnFgkj/yxlOIqT9okyWtQ73gFkPKYKhRcrQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\MetodosExtendisos218\\MetodosExtendisos218\\MetodosExtendisos218.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
