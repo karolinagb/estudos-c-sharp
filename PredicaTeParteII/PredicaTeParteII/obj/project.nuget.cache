@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHVwOXa/gUJHrp2KnraEs6+Qj3cVMuH9HbVjHS7vZQ+5/yM+EhBfiKVvIAg/+8MEDfYqEuah5mSqbHYNzI1kqQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\PredicaTeParteII\\PredicaTeParteII\\PredicaTeParteII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
