@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDOQRpPH9tTwe0XJ4LAa1jrbBDEO9Y1T1Y9y7Ha1LXMOY5sfBSZpTkl4kJsEfBR9L0xLDrCSNuiTlKHaPY+Yxw==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\LinQcomLambDa\\LinQcomLambDa\\LinQcomLambDa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
