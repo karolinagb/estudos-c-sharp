@@ -108,6 +108,39 @@ namespace LinQcomLambDa
             a função Average sem argumentos (já que o select já puxou o preço).*/
             var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
             Console.WriteLine("Category 5 with Average prices: " + r14);
+
+            /*Operação Aggregate() serve para montar uma operação agregada personalizada. Nós trabalhamos até agora com 
+             operações agregadas pré-definidas(como Max, Min, Average...). A função Aggregate em outras linguagens se
+            chama Redunce. No Aggregate eu posso especificar uma expressão Lambda que faz a operação que eu quero agregar,
+            por exemplo a operação de soma.*/
+            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x, y) => x + y);
+            Console.WriteLine("Category 1 aggregate sum: " + r15);
+
+            /*Caso o resultado do Where acima for vazio ai teremos que tratar. Para resolver isso podemos incluir no
+             Aggregate uma sobrecarga dele que recebe um valor como parâmetro inicial. Colocamos o zero e depois a função
+            Lamba*/
+            var r16 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            Console.WriteLine("Category 5 aggregate sum: " + r16);
+
+            Console.WriteLine();
+
+            /*GroupBy() - agrupa elementos de acordo com uma expressão. Ele agrupa por chaves e depois uma coleção de
+             elementos*/
+            var r17 = products.GroupBy(p => p.Category);
+            /*O foreach do GroupBy é da seguinte forma:
+             Cada elemento do meu resultado vai ser do tipo IGrouping e vai ter uma chave e uma coleção.*/
+            foreach(IGrouping<Category, Product> group in r17)
+            {
+                //Mostrando a chave do tipo categoria. Nesse caso escolhemos o nome:
+                Console.WriteLine("Category " + group.Key.Name + ":");
+                
+                //Mostrando os produtos de cada categoria:
+                foreach(Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
