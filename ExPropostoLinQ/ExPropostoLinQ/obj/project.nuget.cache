@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iqHnGG56mianjQdEfHpOwKZ9JcscqzZq9BdEAo7FonS83DogU9/zW6SsFQi6JODdPanLnMhqRLfmP53GduvvgQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\ExPropostoLinQ\\ExPropostoLinQ\\ExPropostoLinQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
